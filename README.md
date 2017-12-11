@@ -1,2 +1,2 @@
 # Spring Data Rest
-Microservice using Spring Data Rest 
+Spring boot microservice using Spring Data Rest and Swagger 
